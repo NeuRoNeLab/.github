@@ -2,9 +2,9 @@
 
 ![alt text](https://github.com/NeuRoNeLab/.github/blob/main/profile/2C2CBE1A-02A8-4F5C-9619-C3028006E3F2.png?raw=true)
 
-Welcome to the GitHub organization for NeuRoNeLab, an academic laboratory focused on artificial intelligence and pattern recognition, deep learning, bio-inspired deep neural networks, knowledge representation through neural networks, machine learning, deep learning clustering, feature extraction perception, control, learning, bio-inspired neural models, graph neural networks, bioinformatics, sequence analysis, algorithms for bioinformatics, cDNA microarray data analysis, scientific computing, numerical analysis, computational geometry, and neuroimaging.
+Welcome to the GitHub organization for NeuRoNeLab, an academic laboratory focused on artificial intelligence and pattern recognition, deep learning, bioinformatics, bioimaging and bio-inspired deep neural networks.
 
-Our mission is to advance the field of artificial intelligence and pattern recognition by developing innovative deep learning models inspired by the nervous system of living beings, as well as by exploring new theoretical directions and applications of existing and novel deep learning techniques. Our work spans a wide range of domains, including bioinformatics, scientific computing, and neuroimaging.
+Our mission is to advance the field of artificial intelligence and pattern recognition by developing innovative deep learning models inspired by the nervous system of living beings, as well as by exploring new theoretical directions and applications of deep learning techniques. Our work spans a wide range of domains, including bioinformatics, scientific computing, and neuroimaging.
 
 ## Research Topics
 
@@ -12,21 +12,12 @@ Our laboratory's research interests include:
 
 - Artificial Intelligence and Pattern Recognition
 - Deep Learning
-- Bio-Inspired Deep Neural Networks
+- Bio-Inspired Deep Neural Networks and neural models
 - Knowledge Representation through Neural Networks
-- Machine Learning
-- Deep Learning Clustering
-- Feature Extraction Perception
-- Control Learning
-- Bio-Inspired Neural Models
 - Graph Neural Networks
 - Bioinformatics
-- Sequence Analysis
-- Algorithms for Bioinformatics
-- cDNA Microarray Data Analysis
+- Biological and medical imaging
 - Scientific Computing
-- Numerical Analysis
-- Computational Geometry
 - Neuroimaging
 
 ## Research Projects
