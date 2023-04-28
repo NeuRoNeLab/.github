@@ -1,5 +1,7 @@
 # NeuRoNeLab
 
+![alt text](https://github.com/NeuRoNeLab/.github/blob/main/profile/2C2CBE1A-02A8-4F5C-9619-C3028006E3F2.png?raw=true)
+
 Welcome to the GitHub organization for NeuRoNeLab, an academic laboratory focused on artificial intelligence and pattern recognition, deep learning, bio-inspired deep neural networks, knowledge representation through neural networks, machine learning, deep learning clustering, feature extraction perception, control, learning, bio-inspired neural models, graph neural networks, bioinformatics, sequence analysis, algorithms for bioinformatics, cDNA microarray data analysis, scientific computing, numerical analysis, computational geometry, and neuroimaging.
 
 Our mission is to advance the field of artificial intelligence and pattern recognition by developing innovative deep learning models inspired by the brain, as well as by exploring new applications of existing deep learning techniques. Our work spans a wide range of domains, including bioinformatics, scientific computing, and neuroimaging.
