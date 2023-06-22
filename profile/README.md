@@ -23,7 +23,7 @@ Our laboratory's research interests include:
 ## Research Projects
 
 Our laboratory is involved in several research projects related to our research interests, including:
-- ElegansNet: a deep learning model inspired by the nervous system of the C. Elegans nematode worm. The model incorporate evolutionary pressure features in its structure, allowing it to process the information in very efficient and effective way ([ArXiv scientific report link](https://arxiv.org/abs/2304.13538)).
+- ElegansAI: a deep learning model inspired by the nervous system of the C. Elegans nematode worm. The model incorporate evolutionary pressure features in its structure, allowing it to process the information in very efficient and effective way ([ResearchSquare preprint link](https://www.researchsquare.com/article/rs-3005708/v2), [ArXiv scientific report link](https://arxiv.org/abs/2304.13538)).
 
 <!--
 
