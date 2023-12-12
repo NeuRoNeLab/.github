@@ -38,7 +38,7 @@ Our laboratory is involved in several research projects related to our research 
 
 If you are interested in learning more about our research, please feel free to contact us at:
 
-- Email: neuronelab@gmail.com
+- Email: neuronelab@europe.com
 - Website: http://neuronelab.unisa.it/index.html
 
 Thank you for your interest in our laboratory!
